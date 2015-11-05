@@ -92,7 +92,7 @@ body {
   font-weight: normal;
   line-height: 1.5;
   margin: 0;
-  padding: 0;
+  padding: 50;
   position: relative;
 }
 
@@ -196,7 +196,7 @@ select {
 /* line 232, ../bower_components/foundation/scss/foundation/components/_grid.scss */
 .row.collapse > .column,
 .row.collapse > .columns {
-  padding-left: 0;
+  padding-left: 50;
   padding-right: 0;
 }
 /* line 235, ../bower_components/foundation/scss/foundation/components/_grid.scss */
@@ -5633,7 +5633,7 @@ ul.pagination li {
   border-color: #d8d8d8;
   margin-bottom: 1.25rem;
   padding: 1.25rem;
-  background: #f2f2f2;
+  background: #d3d3d3;
   color: #333333;
 }
 /* line 61, ../bower_components/foundation/scss/foundation/components/_panels.scss */
